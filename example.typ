@@ -1,7 +1,7 @@
-#import "alta-typst.typ": alta, name, skill, styled-link, target, term
+#import "./resources/alta-typst-master/alta-typst.typ": alta, name, skill, styled-link, target, term
 
 #alta(
-  name: "John Omar",
+  name: "Jhan Omaraaaa",
   links: (
     (name: "email", link: "mailto:contact@example.com"),
     (name: "website", link: "https://example.com/", display: "example.com"),

@@ -1,1 +1,0 @@
-alta-typst-master/example.typ
