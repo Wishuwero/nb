@@ -1,0 +1,1 @@
+~/.nb/templates/resources/default
