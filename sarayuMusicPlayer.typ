@@ -13,6 +13,8 @@
 */
 
 #import "@local/resources:1.0.0": *
+#import "@preview/cheq:0.4.0": checklist
+#show: checklist
 #set document(
   title: [sarayuMusicPlayer],
 )
@@ -22,5 +24,6 @@
 A music player using the old 0095 philips I have.
 
 = Initial plan
-- [ ] Hollow
+- [ ] Hollow the insides
+- [ ] Remove connection to motors & connect buttons to raspberry pi co w
 
