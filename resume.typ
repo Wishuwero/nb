@@ -15,7 +15,7 @@
 #let cv = (
   basics: (
     name: "Hector Omar Andre Sanchez",
-    label: "Incoming UTD Freshman",
+    label: "UTD Freshman",
     summary: [Electrical Engineering student passionate about computers, robotics, and teaching TODO (MAKE THIS BETTER)],
     email: "hectoromar.andre@gmail.com",
     phone: "+1 469 644 7132",
@@ -85,13 +85,13 @@
   ),
 
   skills: (
-    (name: "Languages", keywords: ("Scala", "Haskell", "Go")),
-    (name: "Infra", keywords: ("Kafka", "AWS", "Kubernetes")),
+    (name: "Languages", keywords: ("Nix", "Python", "C")),
+    (name: "Infra", keywords: ("Nix Server", "PVE Clusters")),
   ),
 
   languages: (
     (language: "Spanish", fluency: "Native"),
-    (language: "Spanish", fluency: "Native"),
+    (language: "English", fluency: "Native"),
   ),
 
   education: (
@@ -166,13 +166,14 @@
       startDate: "2025-10",
       endDate: "2026-04",
       summary: [],
-      highlights: ([],),
+      highlights: ([Advised teacher with curriculum], [B]),
     ),
   ),
 
   interests: (
-    (name: "Music", keywords: ("Trad", "Jazz")),
-    //(name: "Sport", keywords: ("Basketbaaall")),
+    (name: "Music", keywords: ("Drums", "Saxophone")),
+    (name: "Coding", keywords: ("openGL", "NixOS")),
+    (name: "Self Hosting", keywords: ("Proxmox", "NixOS")),
   ),
 )
 
