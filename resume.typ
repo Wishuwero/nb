@@ -16,7 +16,7 @@
   basics: (
     name: "Hector Omar Andre Sanchez",
     label: "UTD Freshman",
-    summary: [Electrical Engineering student passionate about computers, robotics, and teaching TODO (MAKE THIS BETTER)],
+    summary: [Electrical Engineering student passionate about computers, privacy, and teaching],
     email: "hectoromar.andre@gmail.com",
     phone: "+1 469 644 7132",
     //url: "https://seanomurchu.dev",
@@ -42,12 +42,11 @@
       location: "New Tech @ Coppell",
       startDate: "2025-01",
       endDate: "2026-05",
-      summary: [ Responsibilities include overseeing other roles, creating schedules for every meet, and creating and supervising committees. ],
+      summary: [ Robotics organization that aims to challenge high schoolers in a multi-disciplinary robotics competition],
       highlights: (
-        [Team captain 2024-2025 and 2025-2026],
-        [Member for two years before vice presidency & later presidency],
+        [Managed multiple subteams and officers],
+        [Scheduled check ins and work times],
         [Sustainability award in 2025],
-        [Multiple marketing awards in 2023-2024],
       ),
     ),
     (
@@ -55,10 +54,9 @@
       position: "Coding & Robotics instructor",
       summary: "Organization aiming to provide kids with tutoring at a low price",
       highlights: (
-        [ Created and taught a robotics curriculum for grades 5-8 ],
-        [ First year’s curriculum was based on FTC and CAD. ],
-        [ Second year’s curriculum was about using microcontrollers and designing a robot out of recycled materials. ],
-        [ Third year’s curriculum was expanding on microcontrollers, this time with more coding and more in depth knowledge of circuits. ],
+        [ Taught kids grades 5-8 about robotics, 3D design, and electronics ],
+        [ Created, refined, and taught multiple curriculums ],
+        [ Every kid participated in a final project and took something tangible home ],
       ),
     ),
     (
@@ -67,8 +65,12 @@
       location: "New Tech @ Coppell",
       startDate: "2019-06",
       endDate: "2026-05",
-      //summary: [tbd],
-      highlihgts: [Assisted with club organization, dates, roles, and debate topics.],
+      summary: [Student run club aiming to teach and practice debate],
+      highlights: (
+        [ Ran weekly workshops and debate nights ],
+        [ Reached out to multiple facilitators weekly to find one willing to host a debate that week ],
+        [ Helped multiple beguinners become better debaters ],
+      ),
     ),
     (
       name: "Coppell High School Band",
@@ -76,10 +78,11 @@
       location: "Coppell High School",
       startDate: "2022-07",
       endDate: "2014-05",
-      //summary: [The Coppell HS Band is one of the leading organizations of its kind in the United States],
+      summary: [ Acclaimed 6A high school music program ],
       highlights: (
-        [JV member for one year],
-        [Varsity member for one year],
+        [ Alto saxophone player in varisty band ],
+        [ Practiced instrument and marching 3+ times per week with whole ensemble],
+        [ Placed in regionals ],
       ),
     ),
   ),
@@ -156,8 +159,8 @@
       startDate: "2023-06",
       endDate: "2025-06",
       highlights: (
-        [Assisted two teams of four grades 6-8 in learning robotics with SPIKE .PRIME for around 30 hours per year],
-        [*Distinguished volunteer* award],
+        [Assisted two teams of four grades 6-8 in learning robotics with SPIKE PRIME for around 30 hours per year],
+        [*Distinguished volunteer* award ],
       ),
     ),
     (
@@ -165,8 +168,7 @@
       position: "Robotics Program Student Mentor",
       startDate: "2025-10",
       endDate: "2026-04",
-      summary: [],
-      highlights: ([Advised teacher with curriculum], [B]),
+      highlights: ([Collaborated with teacher to create and teach curriculum], [Organized and ran final competition]),
     ),
   ),
 
