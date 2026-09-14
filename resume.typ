@@ -15,7 +15,7 @@
 #let cv = (
   basics: (
     name: "Hector Omar Andre Sanchez",
-    label: "UTD Freshman",
+    label: "Electrical Engineering First Year @ UTD",
     summary: [Electrical Engineering student passionate about computers, privacy, and teaching],
     email: "hectoromar.andre@gmail.com",
     phone: "+1 469 644 7132",
@@ -88,8 +88,8 @@
   ),
 
   skills: (
-    (name: "Languages", keywords: ("Nix", "Python", "C")),
-    (name: "Infra", keywords: ("Nix Server", "PVE Clusters")),
+    (name: "Languages", keywords: ("Nix", "Python", "C", "Java")),
+    (name: "Infra", keywords: ("Nix Server", "PVE Clusters", "Cybersecurity")),
   ),
 
   languages: (
@@ -103,6 +103,12 @@
       url: "https://www.coppellisd.com/o/newtech",
       startDate: "2022",
       endDate: "2026",
+    ),
+    (
+      institution: "UTD",
+      url: "https://www.utdallas.edu/",
+      startDate: "2022",
+      endDate: "2030",
     ),
   ),
 
