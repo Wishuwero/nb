@@ -46,6 +46,6 @@ I am writing to apply for the position of student assistant - SSO Implementer be
 //  "Assist with testing integrations for new applications and services." Self hosting again, this one sounds fun
 My interest in implementation comes from my enjoyment of self-hosting. I've had a self hosted server for five years, it has taught me about linux systems, bash scripting, DNS, SSL, and general troubleshooting, documentation, and maintenance skills. I used proxmox and LXC containers four of those years, then transitioning to a more declarative configuration using NixOS that I'm using now.
 
-I have familiarity with both python and javascript. Attending ACM devday gave familiarity with using python to build a basic backend and I have used javascript before to make a
+I have familiarity with both python and javascript. Attending ACM devday gave familiarity with using python to build a basic backend and having used javascript to create a csv solver that helped my school organize events faster gave me a
 
 // Javascript & Python
